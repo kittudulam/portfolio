@@ -32,10 +32,10 @@ function Hero() {
         </p>
 
         <div className="buttons">
-            <a
-                href="/Kittu_Resume_25072026.pdf"
+           <a
+                href={`${import.meta.env.BASE_URL}Kittu_Resume_25072026.pdf`}
                 download
-        >
+           >
                 <button>📄 Download Resume</button>
             </a>
             <a href="#projects">
