@@ -1,0 +1,36 @@
+.footer{
+    background:#1f2937;
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+}
+
+.footer h2{
+    font-size:32px;
+    margin-bottom:15px;
+    color:white;
+}
+
+.footer p{
+    font-size:18px;
+    color:#d1d5db;
+    margin:10px 0;
+}
+
+.footer hr{
+    width:70%;
+    margin:35px auto;
+    border:none;
+    height:1px;
+    background:#4b5563;
+}
+
+.copyright{
+    font-size:16px;
+}
+
+.built{
+    margin-top:8px;
+    font-size:15px;
+    color:#9ca3af;
+}
